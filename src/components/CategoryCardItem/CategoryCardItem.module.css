@@ -1,0 +1,23 @@
+.itemContent {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 400;
+}
+
+.itemContent div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.category {
+  font-size: 12px;
+  color: var(--gray);
+}
+
+.icon {
+  padding: 9px;
+  color: #fff;
+  border-radius: 50%;
+}

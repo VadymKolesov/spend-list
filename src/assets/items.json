@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Apartment rent",
+    "category": "Home",
+    "cost": "825,00zł",
+    "color": "#FFA800",
+    "icon": "Home"
+  },
+  {
+    "id": 2,
+    "title": "Internet",
+    "category": "Home",
+    "cost": "200,00zł",
+    "color": "#47C8F0",
+    "icon": "Wifi"
+  }
+]
